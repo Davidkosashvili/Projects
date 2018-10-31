@@ -1,0 +1,147 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "D0826453-3846-4ED3-B8D8-6901C321C0A7",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "604ED9AE-0F1B-4072-A7E0-56D71842AFEB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FBC52F50-36AB-438E-AE0D-AC69834A598E",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "427CA96D-2742-4CBA-9478-EBA6C319759C",
+    "height": 854,
+    "width": 1600,
+    "x": 78308,
+    "y": -5341
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -755,
+    "do_objectID": "441EA0C4-0EBD-47AA-9448-CD766B1AC634",
+    "guides": [
+      -535
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "3165E273-4A83-461B-A59E-49E827F555B5"
+    },
+    {
+      "class": "rectangle",
+      "id": "E9CF7B34-F4D5-4E79-B257-FAFC82017607"
+    },
+    {
+      "class": "group",
+      "id": "C0E9B742-F1B4-49E2-B5BE-4C50A7F9FAA0"
+    },
+    {
+      "class": "group",
+      "id": "80BDE5CC-E0B7-466D-A6E4-151EC52973EA"
+    },
+    {
+      "class": "group",
+      "id": "18B153DC-6A8B-43C0-9A47-90CA2A5DEFEC"
+    },
+    {
+      "class": "text",
+      "id": "E542921B-82CB-4910-B09A-FC40D17A2354"
+    },
+    {
+      "class": "group",
+      "id": "4AC30CD7-C0B0-4853-AEFF-4AA9EC1D1E17"
+    },
+    {
+      "class": "group",
+      "id": "55B37E00-D7CE-4C3C-89CA-93D2CB8C6CA4"
+    },
+    {
+      "class": "group",
+      "id": "6DDAF0F3-290A-42CF-A08E-0157F6ED4CAD"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 85,
+    "do_objectID": "6C141F04-35FE-4B9E-A700-4C150B001B7D",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": false,
+    "horizontalOffset": 935,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1240
+  },
+  "name": "Şexsi Kabinet Copy 3",
+  "nameIsFixed": false,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "userInfo": {
+    "com.amoreaux.sketch-icons": {
+      "color": "338C5BCF-6F2C-4E4D-AAF7-81C99BE393BE"
+    },
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "nestedSymbolsCacheKey": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6B78ECC2-C4B2-479D-B01E-C21BDA0C2781",
+    "guides": [
+    ]
+  }
+}

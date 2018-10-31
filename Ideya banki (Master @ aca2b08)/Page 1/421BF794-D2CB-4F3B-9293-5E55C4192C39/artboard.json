@@ -1,0 +1,170 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "790EE938-06A4-4058-8280-73AC7989D813",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "421BF794-D2CB-4F3B-9293-5E55C4192C39",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6141DE14-6329-4486-B34B-7A2A5884E35A",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3891DA93-4751-4D9C-80C5-F3D12B526FBC",
+    "height": 1674,
+    "width": 1600,
+    "x": 12712,
+    "y": -6896
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "FEE6FEE3-B5BC-48B6-9B10-E51D57F0B75F",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "EEEC0EF4-0898-4ADE-9C41-CD8F5DF02EAB"
+    },
+    {
+      "class": "group",
+      "id": "15F921FE-8F6E-4C8E-B8ED-818A64D86C52"
+    },
+    {
+      "class": "group",
+      "id": "37A78C65-8CB2-40AA-9B2F-4D2D773227F6"
+    },
+    {
+      "class": "group",
+      "id": "144E380F-FF8A-480E-ABC7-4AA7E1B0615F"
+    },
+    {
+      "class": "group",
+      "id": "D64AB509-951A-4C9E-9845-C487DAA7CFC5"
+    },
+    {
+      "class": "group",
+      "id": "EC67E3DE-9045-4AA7-877B-191E7C66B6FC"
+    },
+    {
+      "class": "rectangle",
+      "id": "DB39FF1B-F3A6-4A56-9CE2-B67E386190C0"
+    },
+    {
+      "class": "oval",
+      "id": "9D252FA2-B754-455F-AB2B-13DB8BF83D99"
+    },
+    {
+      "class": "oval",
+      "id": "E2BE5152-1E71-4CA3-B85C-B3A009B31A66"
+    },
+    {
+      "class": "text",
+      "id": "29E04FC9-63DF-4F0A-9184-DA31DA1B6A07"
+    },
+    {
+      "class": "text",
+      "id": "8422D034-0FD2-4D1F-BA8A-66476C0B91FD"
+    },
+    {
+      "class": "text",
+      "id": "9155A34F-B9BF-4DF9-BA10-5D43418E17F5"
+    },
+    {
+      "class": "text",
+      "id": "E0423210-B004-443C-8B74-BC5ECF6B17C1"
+    },
+    {
+      "class": "text",
+      "id": "5E9AC963-6335-4A5C-B65B-33E015DEC688"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "80C86652-D755-46DC-9619-134AEC9C2A85"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "260B9D85-9B3D-42C6-B665-DDAC2643F44E"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 85,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": false,
+    "horizontalOffset": 180,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1240
+  },
+  "name": "MÜSABİQƏLƏR Copy",
+  "nameIsFixed": false,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "nestedSymbolsCacheKey": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -2,
+    "do_objectID": "2C383006-2E0E-4B0A-91B0-0DF815B213A1",
+    "guides": [
+    ]
+  }
+}

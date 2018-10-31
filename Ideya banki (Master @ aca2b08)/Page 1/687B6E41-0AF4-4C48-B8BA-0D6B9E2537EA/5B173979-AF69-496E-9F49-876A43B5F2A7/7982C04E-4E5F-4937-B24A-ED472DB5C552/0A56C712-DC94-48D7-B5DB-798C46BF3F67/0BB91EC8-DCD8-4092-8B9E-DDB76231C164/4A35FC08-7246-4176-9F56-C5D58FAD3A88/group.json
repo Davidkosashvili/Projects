@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4A35FC08-7246-4176-9F56-C5D58FAD3A88",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9B61484D-D450-46F7-9365-09F719A7473B",
+    "height": 40.49999892711639,
+    "width": 40.49999892711639,
+    "x": 108.8999971151352,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "402EA3B1-CC29-4B4C-BA33-1667E7CC7CC2"
+    },
+    {
+      "class": "shapePath",
+      "id": "7A48DEF3-C6E6-4298-81A8-507D7326F7F3"
+    }
+  ],
+  "name": "001-facebook",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "F910B762-CF70-4C4A-B85F-251FBC9E1DC8",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 3.599999958276747,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "731CF1C4-0ECE-43DB-BFC4-FC9B3FFE464B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

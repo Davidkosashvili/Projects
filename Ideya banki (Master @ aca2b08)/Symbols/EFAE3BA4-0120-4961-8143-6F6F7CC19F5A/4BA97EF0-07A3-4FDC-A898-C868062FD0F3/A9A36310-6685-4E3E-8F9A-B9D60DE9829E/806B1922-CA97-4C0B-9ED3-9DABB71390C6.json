@@ -1,0 +1,55 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "806B1922-CA97-4C0B-9ED3-9DABB71390C6",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 28,
+    "width": 360,
+    "x": 0,
+    "y": 58
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Card - 2",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "D36ABE71-FC4A-4995-9E04-21B23A956BAF_symbolID",
+      "value": "8856CD30-6C87-4E09-B17E-C1FEE0CF2033"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "1F75FC46-ECFD-4F32-9144-5A9672035567_stringValue",
+      "value": "Bags & Packages"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "0AC6C26E-ABC4-4198-9AA9-8F2B8530D207_stringValue",
+      "value": "+29%"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F10F149F-66D1-4FD8-9A75-A288C91F8384",
+  "verticalSpacing": 0
+}

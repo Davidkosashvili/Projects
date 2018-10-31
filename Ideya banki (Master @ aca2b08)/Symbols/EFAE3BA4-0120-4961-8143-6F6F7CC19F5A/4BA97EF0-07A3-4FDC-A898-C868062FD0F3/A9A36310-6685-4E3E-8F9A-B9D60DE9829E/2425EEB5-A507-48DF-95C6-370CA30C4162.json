@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "2425EEB5-A507-48DF-95C6-370CA30C4162",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 28,
+    "width": 360,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Card - 1",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "ABD3C765-9422-476B-88C1-3A47B2EB60F2",
+      "overrideName": "1F75FC46-ECFD-4F32-9144-5A9672035567_stringValue",
+      "value": "Accessories"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "54EB1FFE-BC85-43E5-94F2-6D03DCCE3863",
+      "overrideName": "0AC6C26E-ABC4-4198-9AA9-8F2B8530D207_stringValue",
+      "value": "+34%"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F10F149F-66D1-4FD8-9A75-A288C91F8384",
+  "verticalSpacing": 0
+}

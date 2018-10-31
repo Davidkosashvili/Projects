@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9BC65C7A-1D0A-4537-A5D4-9328CFA50617",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "60C36D29-BFC8-4157-8E71-17827A52C4D4",
+    "height": 30,
+    "width": 295.8118811881186,
+    "x": 269,
+    "y": 2350
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "like ",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1.155000005364418,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "D3FF8841-0CBA-4B21-B6A9-88BE23ECFC9F",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 11.55000005364418,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "37738DE7-2584-4DBC-9D27-CEC171AEC326",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0E9F0992-C0A2-48E5-B0AA-8E10F60550B2",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

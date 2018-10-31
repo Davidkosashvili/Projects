@@ -1,0 +1,150 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2A5A580B-365F-4C01-83CA-7DB3927640A4",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "83E5CC45-3E46-4983-B226-B9B771A80FEA",
+    "height": 17.1619120020828,
+    "width": 16.97131051051051,
+    "x": 9.544936936936868,
+    "y": 9.811983858370073
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "109D7243-4B06-42D8-BF8C-2AF2FAEAA670"
+    },
+    {
+      "class": "shapePath",
+      "id": "5697CF80-1782-4919-9414-B73638EAC7CE"
+    },
+    {
+      "class": "shapePath",
+      "id": "D2B2BB94-D63C-4F54-9525-2A51575841ED"
+    }
+  ],
+  "name": "Fill 1",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "D2CF8045-DB4A-4A08-AD5F-58717723D23B",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 3.19999985694885,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "71A8232E-75F1-4A85-B0CF-BA2D6F486482",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.737,
+          "green": 0.361,
+          "red": 0.439
+        },
+        "fillType": 1,
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{1.0798462849698749, 1.4208401534841524}",
+          "gradientType": 0,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.5176470588235295,
+                "green": 0.8431372549019609,
+                "red": 0.9803921568627451
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.2588235294117647,
+                "green": 0.5137254901960784,
+                "red": 0.9294117647058824
+              },
+              "position": 0.289784845548148
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.4705882352941178,
+                "green": 0.2666666666666667,
+                "red": 0.7803921568627451
+              },
+              "position": 0.5790137102412246
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.7294117647058823,
+                "green": 0.2901960784313726,
+                "red": 0.5411764705882351
+              },
+              "position": 0.7832537935866024
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.807843137254902,
+                "green": 0.4039215686274512,
+                "red": 0.2980392156862746
+              },
+              "position": 1
+            }
+          ],
+          "to": "{0, -0.55565470652784299}"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "windingRule": 1
+}

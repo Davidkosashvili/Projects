@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "3B15BF34-C7B8-42E8-A4C2-B67C1B67D4A4",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 187,
+    "width": 350,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "FAFBB73C-A817-460A-85DC-3E2275C5365F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A3A812E0-9AF7-4552-98E0-407AD6A7FCD8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8F266DA1-3910-4F81-837F-8CC23496B3C8"
+    },
+    {
+      "class": "rectangle",
+      "id": "2F11633E-E30D-451C-9465-A8D943014438"
+    }
+  ],
+  "name": "Bottom Tabs",
+  "nameIsFixed": true,
+  "resizingConstraint": 34,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

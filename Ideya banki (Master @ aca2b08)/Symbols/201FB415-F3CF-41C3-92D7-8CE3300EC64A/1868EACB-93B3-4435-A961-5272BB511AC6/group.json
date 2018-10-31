@@ -1,0 +1,75 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "1868EACB-93B3-4435-A961-5272BB511AC6",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "020F18DB-2644-4C25-B023-515A814CB6F7",
+    "height": 290,
+    "width": 290,
+    "x": 144,
+    "y": 14
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "5C330363-CEED-41E2-B94E-CE2AF4164A7D"
+    },
+    {
+      "class": "oval",
+      "id": "5F03D56D-4CBB-45F7-A0E0-5450CCB9FE6A"
+    },
+    {
+      "class": "oval",
+      "id": "5549F206-E9BD-44C2-820C-4A20AB9C5D1D"
+    },
+    {
+      "class": "oval",
+      "id": "30768B1A-6233-4A52-BD2D-269C4D410ACC"
+    },
+    {
+      "class": "oval",
+      "id": "CA52462C-E993-48FF-95D8-4EA49E8924C4"
+    }
+  ],
+  "name": "piechart",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "D266E003-4032-498B-85A5-BF0EC68FCE5B",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 13.80952380952381,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "B5DC6703-C16F-4D69-9FCA-096684DC44A2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

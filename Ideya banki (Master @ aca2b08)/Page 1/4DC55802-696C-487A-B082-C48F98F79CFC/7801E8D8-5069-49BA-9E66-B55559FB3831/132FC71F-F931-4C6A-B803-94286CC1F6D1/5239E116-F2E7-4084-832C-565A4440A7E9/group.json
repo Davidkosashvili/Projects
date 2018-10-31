@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5239E116-F2E7-4084-832C-565A4440A7E9",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4BEF7704-72D5-40C2-AD8E-8AA4B736C8B0",
+    "height": 47,
+    "width": 47,
+    "x": 67,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "6018B355-4BDE-44F0-9CDA-CC3C1A8C3E6F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6D245993-FDB5-48D4-88B4-1ACD52D5F554"
+    }
+  ],
+  "name": "004-linkedin",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "58AFAAE5-4309-413B-85E9-F8FC6453C1F5",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 4.16000004291533,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "34BBD3A1-289F-405E-A49D-1EA40FA87BD9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

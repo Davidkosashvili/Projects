@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DC6D4CF3-7689-4AB5-B069-D08FB55A43BC",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 80,
+    "width": 1600,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "C2C29FD5-2946-466F-9FB1-CC7EE406FA0C"
+    },
+    {
+      "class": "oval",
+      "id": "BF4DA865-F73E-4F62-B7EB-F8DDE1FB23D4"
+    },
+    {
+      "class": "group",
+      "id": "7A95AC26-F539-4454-8285-E50A44DDE335"
+    },
+    {
+      "class": "group",
+      "id": "932A847C-13BC-4940-86D6-DE13E0872020"
+    },
+    {
+      "class": "text",
+      "id": "DDE2C106-0E83-406A-807A-881E3CDFB36E"
+    }
+  ],
+  "name": "Group 67",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

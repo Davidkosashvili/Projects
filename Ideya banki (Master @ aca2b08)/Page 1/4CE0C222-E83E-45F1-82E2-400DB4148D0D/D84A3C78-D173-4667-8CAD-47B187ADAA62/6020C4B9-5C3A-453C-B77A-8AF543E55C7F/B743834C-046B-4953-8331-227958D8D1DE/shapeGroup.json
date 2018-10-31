@@ -1,0 +1,80 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B743834C-046B-4953-8331-227958D8D1DE",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F68A6C6C-83D5-40DC-A9CF-4DCB8FCDEF3E",
+    "height": 19,
+    "width": 11,
+    "x": 1142,
+    "y": 159
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "719A923F-3EF3-466F-AD20-3B468D412F42"
+    },
+    {
+      "class": "shapePath",
+      "id": "46C215D2-5396-46CB-8B4D-4AA35B1735F6"
+    },
+    {
+      "class": "shapePath",
+      "id": "ABFC7727-A048-4233-B33E-A38C14FB9BC1"
+    },
+    {
+      "class": "shapePath",
+      "id": "7A33DC70-CFB3-4177-9BE2-0F03A004D6BB"
+    }
+  ],
+  "name": "Fill 332",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BB08BF63-45C3-4EBF-B334-E77FE239EB4E",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.514,
+          "green": 0.184,
+          "red": 0.184
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "windingRule": 1
+}

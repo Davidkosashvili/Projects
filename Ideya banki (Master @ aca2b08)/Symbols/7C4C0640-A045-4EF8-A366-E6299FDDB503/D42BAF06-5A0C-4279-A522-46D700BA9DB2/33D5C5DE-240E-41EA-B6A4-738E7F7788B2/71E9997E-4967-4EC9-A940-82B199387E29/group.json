@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "71E9997E-4967-4EC9-A940-82B199387E29",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "80AC3E8A-E784-4490-A077-6F7EE0EF0A79",
+    "height": 12.79999923706055,
+    "width": 12.79999923706055,
+    "x": -2.861022778688493e-7,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "065CD7E9-9D73-433B-9635-B4856D50DE3B"
+    }
+  ],
+  "name": "baseline-forum-24px",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "F0A28566-1137-4FBF-810E-CD1036BE5F98",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 6.39999923706057,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "531B517B-1374-4586-AFC5-E3C209B9B345",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

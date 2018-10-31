@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "450939B1-644E-4DAE-BE01-8F235F0480F1",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3D809450-BC5E-4F61-B5DE-53685AF91AC7",
+    "height": 118,
+    "width": 118,
+    "x": 2264,
+    "y": -293
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "92448A47-34BB-48DD-BB38-B5CC5E14A3B8"
+    },
+    {
+      "class": "shapePath",
+      "id": "2BFA0ECD-6D44-4B8F-BC92-865781EFD863"
+    }
+  ],
+  "name": "baseline-chat_bubble-24px",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "85A7812B-1898-4AC6-83CC-32AA2C8BEC25",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 49.39999756813052,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "0DDA649F-9613-4916-9CC4-6BF5EA99DAB2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

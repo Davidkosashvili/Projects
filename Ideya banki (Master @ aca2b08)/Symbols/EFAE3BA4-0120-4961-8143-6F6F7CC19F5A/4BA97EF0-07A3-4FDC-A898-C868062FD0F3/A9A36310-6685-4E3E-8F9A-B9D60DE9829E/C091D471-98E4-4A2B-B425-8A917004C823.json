@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C091D471-98E4-4A2B-B425-8A917004C823",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 28,
+    "width": 360,
+    "x": 0,
+    "y": 232
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Card - 5",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "D36ABE71-FC4A-4995-9E04-21B23A956BAF_symbolID",
+      "value": "5170FC77-D51D-4E1B-B892-5EEF4792EF3F"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "26CAFECC-86B2-4CAD-B7D7-110C08EA285F",
+      "overrideName": "0AC6C26E-ABC4-4198-9AA9-8F2B8530D207_stringValue",
+      "value": "+11%"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2CCEADA1-C349-4DCF-9826-0B1C6488EAF4",
+      "overrideName": "1F75FC46-ECFD-4F32-9144-5A9672035567_stringValue",
+      "value": "Jampers & Cardigans"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F10F149F-66D1-4FD8-9A75-A288C91F8384",
+  "verticalSpacing": 0
+}

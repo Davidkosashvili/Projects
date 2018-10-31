@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F35060ED-696B-4902-8378-BDD53FB8A454",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 28,
+    "width": 360,
+    "x": 0,
+    "y": 116
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Card - 3",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "D36ABE71-FC4A-4995-9E04-21B23A956BAF_symbolID",
+      "value": "CCF79A10-73D6-42CF-8316-65726306544B"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B34523F0-3792-4956-BE33-28A6D2320F38",
+      "overrideName": "1F75FC46-ECFD-4F32-9144-5A9672035567_stringValue",
+      "value": "Footwear"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CA29586B-FC1B-4941-9C46-345B7DC93BD8",
+      "overrideName": "0AC6C26E-ABC4-4198-9AA9-8F2B8530D207_stringValue",
+      "value": "+21%"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F10F149F-66D1-4FD8-9A75-A288C91F8384",
+  "verticalSpacing": 0
+}

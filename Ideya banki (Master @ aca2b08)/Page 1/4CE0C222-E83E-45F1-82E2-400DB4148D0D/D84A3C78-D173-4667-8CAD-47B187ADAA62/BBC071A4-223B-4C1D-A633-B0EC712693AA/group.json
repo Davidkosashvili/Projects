@@ -1,0 +1,75 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BBC071A4-223B-4C1D-A633-B0EC712693AA",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2B3BBA5D-E808-4799-A5B3-0CF08FD7B713",
+    "height": 420,
+    "width": 400,
+    "x": 1057,
+    "y": 1505
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "D74418E5-C09A-4407-AB0C-122EC41B6FE5"
+    },
+    {
+      "class": "oval",
+      "id": "7D2B236D-DB2D-4AC6-939D-93DB6DCF8471"
+    },
+    {
+      "class": "oval",
+      "id": "7B4B8E87-419C-44A4-B4D9-DBC61518152B"
+    },
+    {
+      "class": "text",
+      "id": "41F7C0AD-9219-4376-88AF-581BF2E19D82"
+    },
+    {
+      "class": "rectangle",
+      "id": "8B7B6E0F-BCF2-45DA-88B1-19B720C2EF8E"
+    }
+  ],
+  "name": "Group 2 Copy 8",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "224D7B6C-E7B9-444B-8945-6A3941371C53",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 7.700000035762784,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "EA38FB57-E4A2-4124-8462-31DA1B32F35C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.5397002551020408,
+            "green": 0.5397002551020408,
+            "red": 0.5397002551020408
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "VisbyCF-Medium",
+              "size": 28
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 48,
+            "minimumLineHeight": 48
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 1387,
+        "location": 0
+      }
+    ],
+    "string": "“İdeya Bankı” 2012-ci il 20 Noyabr tarixində yaradılmışdır və ilk ideya bu tarixdə qəbul edilmişdir. \nBankın yaradılmasında ilkin məqsəd Dövlət Agentliyinin, o cümlədən ASAN xidmət mərkəzlərinin fəaliyyətinin təkmilləşdirilməsi üçün vətəndaşlardan ideyaların toplanması ilə bağlı olmuşdur. Dolayısı ilə vətəndaşlar verdikləri ideyalar ilə müsbət dəyişikliklərə töhfə verməklə yanaşı dövlət orqanın qərar qəbul etməsi prosesində bilavasitə iştirak etmiş olur. \nEyni zamanda xidmət istifadəçiləri olan vətəndaşlar xidmətlərin özləri üçün daha rahat, arzuolunan və eyni zamanda daha innovativ formada təqdim olunması istiqamətində öz fikir və baxışlarını bizimlə paylaşmış olurlar. \nBu isə vətəndaşlardan daim müşahidə etməyi, yenilik axtarmağı, dəyişiklik etməyi və ən əsası aktiv vətəndaş olmağı tələb edir. Bütün bunların fonunda dövlət xidmətlərinin keyfiyyəti daim yüksəlir və bu da vətəndaşların məmnunluğuna xidmət etmiş olur. \n2015-ci ilin mart ayından etibarən Təhsil Nazirliyi və Tələbə Qəbulu üzrə Dövlət Komissiyası “İdeya Bankı”na qoşulmuşdur. “İdeya Bankı” vasitəsi ilə bu orqanların müəyyən etdiyi istiqamətlər üzrə ideyalar qəbul edilir. Hər bir vətəndaş qeyd edilən dövlət orqanlarının fəaliyyətinin təkmilləşdirilməsi istiqamətində öz ideya və təkliflərini elektron qaydada göndərə bilər. Komissiya tərəfindən qalib seçilən ideyaların mükafatlandırılması həyata keçirilir."
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "84E23114-F4BD-45A7-BCF8-EC02D94B0A3A",
+  "dontSynchroniseWithSymbol": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1CBF504E-85A2-48DE-8A07-25C09E31F550",
+    "height": 781,
+    "width": 1240,
+    "x": 180,
+    "y": 673
+  },
+  "glyphBounds": "{{0, 8}, {1239, 754}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "“İdeya Bankı” 2012-c",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EB103CF2-67FC-4DF9-8EF6-F4E14B222ED2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "BFABD96E-1FA3-4DC1-854A-9354EE97F8EE",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5397002551020408,
+          "green": 0.5397002551020408,
+          "red": 0.5397002551020408
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "VisbyCF-Medium",
+            "size": 28
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 48,
+          "minimumLineHeight": 48
+        },
+        "textStyleVerticalAlignmentKey": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 2,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 0
+      }
+    }
+  }
+}

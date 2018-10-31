@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "DA325116-EB22-4767-B4A6-8DAB077439D2",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 540,
+    "width": 540,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "EBCE6688-9FC8-463A-B5E7-211207C64506"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D7691235-A1E1-498C-9FA2-CDBB07977DEA"
+    }
+  ],
+  "name": "Pie Diagram Inner-Rounded 4-6",
+  "nameIsFixed": true,
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 540,
+            "enabled": 1,
+            "modelID": "constraint_75b8f7a4-5750-48ba-94ca-5409c23cae5a",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 540
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_eb95ecd1-3e2e-4f83-ba2f-23a183e041de",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

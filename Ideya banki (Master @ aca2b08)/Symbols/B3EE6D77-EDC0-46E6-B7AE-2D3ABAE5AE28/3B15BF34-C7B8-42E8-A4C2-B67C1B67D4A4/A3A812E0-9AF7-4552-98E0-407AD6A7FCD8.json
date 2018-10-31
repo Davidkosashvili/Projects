@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "A3A812E0-9AF7-4552-98E0-407AD6A7FCD8",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 125,
+    "width": 140,
+    "x": 190,
+    "y": 32
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Card - 2",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "A98422B5-09C5-495B-96FD-0F3903ABB036_symbolID",
+      "value": "3B9E6F98-3753-4B04-B00D-624B140E52B2"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "1FB82C5B-81B1-4920-AE32-BEEB63996E9A_symbolID",
+      "value": "DBB57744-96FC-40C0-BAA5-D5BD532DF716"
+    }
+  ],
+  "resizingConstraint": 46,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D547480E-0CCC-4D6A-A504-79EBD8026DF1",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,154 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "BEEB1F29-C0D0-44C0-A44C-08EFD373AA09",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9C18068E-4D36-47A5-81F7-169AA5E1E836",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E5421474-E493-42B0-99F6-E664C271B491",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C6FDA444-8A43-4CD9-ADE1-8232152B67E0",
+    "height": 982,
+    "width": 1600,
+    "x": 54425,
+    "y": -6614
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "52977101-8EC3-453F-A633-EE1F0F0D9AF7",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "EDA054FD-C95E-4434-B1B3-1C35473C9E16"
+    },
+    {
+      "class": "rectangle",
+      "id": "3D74A428-F220-4C8E-B487-0D5F895801E3"
+    },
+    {
+      "class": "text",
+      "id": "BBB70581-1866-44A7-B770-FF6D0C430CB9"
+    },
+    {
+      "class": "text",
+      "id": "CB10A0FB-D321-442E-AE5A-5643F7F77B63"
+    },
+    {
+      "class": "group",
+      "id": "3B7D181C-58D8-40BA-92D8-59E1A893FE8F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0CAEFEA2-F32C-4EE4-AAD9-196640517F90"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "72EEDE86-CC13-4645-AD67-5B115D2BEC95"
+    },
+    {
+      "class": "group",
+      "id": "E245DAE5-DBD6-41EB-9AD2-BFE71F97ED41"
+    },
+    {
+      "class": "group",
+      "id": "19C914D3-7E71-4D57-87DE-9B2D5C8873AF"
+    },
+    {
+      "class": "group",
+      "id": "B3FC9A42-A18F-400B-9649-FBA918579899"
+    },
+    {
+      "class": "text",
+      "id": "5CE5EEF2-D607-4910-9E41-AA785CDA30EC"
+    },
+    {
+      "class": "shapePath",
+      "id": "C7375F9D-05C5-4677-B5E2-C8B2DDC2D2D5"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 85,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": false,
+    "horizontalOffset": 180,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1240
+  },
+  "name": "Qeydiyyat #2",
+  "nameIsFixed": false,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "nestedSymbolsCacheKey": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "5915364C-5962-4CE5-B6C5-D335115EB2C0",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4348A92D-988E-4BB0-8FFF-AABACBD84018",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "55405D3C-0E11-4790-A522-031233247FF8",
+    "height": 40.64347826086956,
+    "width": 40.68,
+    "x": 1133,
+    "y": 1240
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "BE8888E0-6C2D-4974-BD77-91D5E4FFD5E9"
+    },
+    {
+      "class": "group",
+      "id": "1ABD98FA-CEFC-48C8-A93B-529879DBCE8D"
+    }
+  ],
+  "name": "005-google-plus",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "3DC92BC1-ACD8-4C67-86C5-A1986DCB358E",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 3.599999958276747,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "0CA3E843-7A6F-4D14-99A1-02F95DECBAF4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

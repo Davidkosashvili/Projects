@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7E338112-430E-433F-A2A7-38FFD5D08D65",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "44794D8E-89AE-46B2-B9FF-8AFD060A2E6D",
+    "height": 40,
+    "width": 40,
+    "x": 0,
+    "y": 13
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "88E3D953-850C-4563-8059-4D086EC5ADE8"
+    },
+    {
+      "class": "bitmap",
+      "id": "0A83AC79-7784-4772-B30D-E42BA821D3CE"
+    }
+  ],
+  "name": "Image",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "83F0C388-8CF5-4BE3-881E-1FF31EE5247F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

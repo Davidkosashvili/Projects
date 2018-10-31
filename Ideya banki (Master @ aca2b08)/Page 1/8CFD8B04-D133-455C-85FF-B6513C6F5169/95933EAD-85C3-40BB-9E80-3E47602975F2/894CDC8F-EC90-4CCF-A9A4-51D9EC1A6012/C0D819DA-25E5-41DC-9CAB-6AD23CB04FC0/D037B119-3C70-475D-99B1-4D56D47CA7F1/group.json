@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D037B119-3C70-475D-99B1-4D56D47CA7F1",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "467E66F7-77D9-4B06-BF42-F84B56D6849F",
+    "height": 7,
+    "width": 26,
+    "x": 199,
+    "y": 17
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "6B4A46BA-9296-4857-98BA-A94FA2E84568"
+    },
+    {
+      "class": "oval",
+      "id": "70EC9767-D33D-4174-8CA2-7844A3C33586"
+    },
+    {
+      "class": "oval",
+      "id": "8168C75B-7C80-4B5F-9E63-21789775D3E2"
+    }
+  ],
+  "name": "Oval 67 + Oval 67 Copy + Oval 67 Copy 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "42979CA6-0C1C-4ABF-AAFD-BA8BF77822E9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

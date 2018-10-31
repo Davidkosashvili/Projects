@@ -1,0 +1,103 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F154ADE2-2F94-4616-9195-AFEF4710062F",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A03364F3-CA48-4A81-908B-D828D1E7F09A",
+    "height": 55,
+    "width": 76,
+    "x": 184,
+    "y": 13
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A688E71E-378A-43B0-A01E-E848094B4C0E"
+    },
+    {
+      "class": "shapePath",
+      "id": "7FCF3E66-CDCE-4F09-AB48-0C0DA949DFD3"
+    },
+    {
+      "class": "shapePath",
+      "id": "989297E9-D835-4790-8AA8-9CBEB834A62E"
+    },
+    {
+      "class": "shapePath",
+      "id": "9FEFD049-5FB3-4CB1-9C9C-C2937BA7A687"
+    },
+    {
+      "class": "shapePath",
+      "id": "0E0E90B9-FE2C-42F6-97FF-495F21B0B767"
+    },
+    {
+      "class": "shapePath",
+      "id": "1A323308-818C-4140-9FEA-409327696754"
+    },
+    {
+      "class": "shapePath",
+      "id": "800CCB61-3BFE-40F7-B1C3-CB3D3BF851A6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1C25BE6C-AC08-4673-867B-951151E57CF7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "67365D12-2888-4487-A4C4-E0C0EBEA76BC"
+    },
+    {
+      "class": "shapePath",
+      "id": "BC63783B-E6DC-4C2F-BBD9-73DF860039B3"
+    },
+    {
+      "class": "group",
+      "id": "74392864-A960-4A0A-B08F-52E949E302F0"
+    },
+    {
+      "class": "shapePath",
+      "id": "B422324D-1512-418C-9607-728BB156C45C"
+    }
+  ],
+  "name": "Group 26 Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "402C458F-F1AB-4DA9-94DE-B36F036A4DF4",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 2.160000221729279,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "E3A4860E-8059-44F6-9998-55B66F71133D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

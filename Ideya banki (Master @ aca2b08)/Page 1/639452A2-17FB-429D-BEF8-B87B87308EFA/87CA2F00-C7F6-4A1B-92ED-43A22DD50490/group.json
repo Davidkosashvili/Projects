@@ -1,0 +1,78 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "87CA2F00-C7F6-4A1B-92ED-43A22DD50490",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "81179D21-8B22-4C98-9CA2-8B61EEE67523",
+    "height": 60,
+    "width": 60,
+    "x": 227,
+    "y": 1631
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "D6B4A881-6CDE-4925-BA3C-E29AC0573A04"
+    },
+    {
+      "class": "bitmap",
+      "id": "7DCEEDEA-CDBB-449C-8E20-7C21D4062636"
+    }
+  ],
+  "name": "TONY PHAM THUMBNAIL Copy 2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "8285EC3B-E37C-4831-AA2D-8CDF486D9848",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 16,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "D37117D3-5DBF-40D8-9785-D1A414F693EA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 60,
+            "enabled": 1,
+            "modelID": "constraint_af58cd81-da36-4361-88f0-7fdb355a1c3a",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 60
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_d814c09e-db89-4c10-91be-5bb3ee7e172f",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

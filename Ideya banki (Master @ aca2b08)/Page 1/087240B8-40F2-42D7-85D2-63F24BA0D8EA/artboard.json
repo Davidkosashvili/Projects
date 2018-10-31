@@ -1,0 +1,174 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "3D1A7EE6-2D13-48A8-8F0F-F27DB5EA9D7C",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "087240B8-40F2-42D7-85D2-63F24BA0D8EA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B13C5E53-6599-4CCE-8557-8DDE2CA20D34",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "62886923-5365-46C2-8A23-EB4DB1FD47D7",
+    "height": 1281,
+    "width": 1600,
+    "x": 76465,
+    "y": -6676
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -755,
+    "do_objectID": "9B2FB54F-F34E-470F-AA7E-8979160956A2",
+    "guides": [
+      -535
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "8F6D9F70-46B4-4AA8-9699-0F08D7083002"
+    },
+    {
+      "class": "group",
+      "id": "2490C12A-892B-4F03-84B6-9EA157DAB124"
+    },
+    {
+      "class": "rectangle",
+      "id": "A80EE6ED-B50E-43C1-9CD9-0B771EB96EB3"
+    },
+    {
+      "class": "rectangle",
+      "id": "96401CEC-E86D-4E6A-95FC-54E350B4F046"
+    },
+    {
+      "class": "oval",
+      "id": "F152AC0D-5B93-4185-ACE7-0F6A585CAF3B"
+    },
+    {
+      "class": "group",
+      "id": "64E5C1B2-7714-44EE-B072-83847274F588"
+    },
+    {
+      "class": "group",
+      "id": "FBE498DF-5487-40D2-AE5D-36EE57A9932F"
+    },
+    {
+      "class": "text",
+      "id": "A551C50A-209C-43E0-B366-4E1E75321EAA"
+    },
+    {
+      "class": "group",
+      "id": "1E0E9E5D-AA1A-4093-8739-FCEBB7478D47"
+    },
+    {
+      "class": "rectangle",
+      "id": "3984054E-1181-47DB-ABBB-D4A9D45F9662"
+    },
+    {
+      "class": "text",
+      "id": "3B76502E-A324-4764-8A26-178C391FE668"
+    },
+    {
+      "class": "text",
+      "id": "0226663D-3DF6-4ECB-9EC7-32D2465D37EA"
+    },
+    {
+      "class": "text",
+      "id": "E2368478-366E-4727-8A9C-F08A4D154622"
+    },
+    {
+      "class": "shapePath",
+      "id": "2F7DC919-1D10-4478-A8B6-CFCB73D097B3"
+    },
+    {
+      "class": "shapePath",
+      "id": "E4AE371A-2235-4359-8D92-B8D7D9D132CF"
+    },
+    {
+      "class": "shapePath",
+      "id": "294E5BD4-2B15-4267-932A-9A51B154E249"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 85,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": false,
+    "horizontalOffset": 935,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1240
+  },
+  "name": "Şexsi Kabinet Copy",
+  "nameIsFixed": false,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "userInfo": {
+    "com.amoreaux.sketch-icons": {
+      "color": "338C5BCF-6F2C-4E4D-AAF7-81C99BE393BE"
+    },
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "nestedSymbolsCacheKey": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "07838DB2-9A14-45DD-927B-D322310F395C",
+    "guides": [
+    ]
+  }
+}
